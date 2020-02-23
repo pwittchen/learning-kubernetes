@@ -28,8 +28,15 @@ starting cluster:
 - to start `minikube`, type `minikube start` and to see help, type `minikube`
 - to see help of `kubectl`, type `kubectl`
 
-Pods and containers
+pods and containers
 -------------------
+
+TBD.
+
+scaling with replicaset
+-----------------------
+
+TBD.
 
 references
 ----------
