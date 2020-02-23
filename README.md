@@ -26,9 +26,13 @@ sudo /sbin/rcvboxdrv setup
 
 **note**: not all the things above are probably required, but I had to play around with VirtualBox in order to make minikube work on arch linux
 
-starting cluster:
-- to start `minikube`, type `minikube start` and to see help, type `minikube`
-- to see help of `kubectl`, type `kubectl`
+basic commands:
+- `minikube start` starts the cluster
+- `minikube stop` stops the cluster
+- `minikube` shows help
+- `kubectl` shows help
+- `VBoxManage list runningvms` show running VMs
+- `VBoxManage list vms` shows all VMs
 
 pods and containers
 -------------------
