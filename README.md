@@ -29,6 +29,7 @@ sudo /sbin/rcvboxdrv setup
 basic commands:
 - `minikube start` starts the cluster
 - `minikube stop` stops the cluster
+- `minikube dashboard` opens dashboard in the web browser
 - `minikube` shows help
 - `kubectl` shows help
 - `VBoxManage list runningvms` show running VMs
