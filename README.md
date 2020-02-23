@@ -44,4 +44,5 @@ references
 ----------
 - https://kubernetes.io/
 - https://cloudowski.com/kubernetes-po-polsku/
+- https://github.com/cloudowski/kubernetes-po-polsku
 - https://github.com/pwittchen/learning-docker
