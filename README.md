@@ -31,6 +31,8 @@ starting cluster:
 pods and containers
 -------------------
 
+Pod is the element, which may contain one or more docker containers, which can communicate with each other.
+
 TBD.
 
 scaling with replicaset
@@ -42,3 +44,4 @@ references
 ----------
 - https://kubernetes.io/
 - https://cloudowski.com/kubernetes-po-polsku/
+- https://github.com/pwittchen/learning-docker
