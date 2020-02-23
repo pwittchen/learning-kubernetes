@@ -47,6 +47,51 @@ scaling with replicaset
 
 TBD.
 
+communication between services
+------------------------------
+
+TBD.
+
+automatic reverse proxy with ingress
+------------------------------------
+
+TBD.
+
+managing application, its lifecycle and deployment
+--------------------------------------------------
+
+TBD.
+
+application config with configmap
+---------------------------------
+
+TBD.
+
+managing virtual environments (namespace)
+-----------------------------------------
+
+TBD.
+
+installing applications with helm
+----------------------------------
+
+TBD.
+
+creating and publishing applications for helm
+---------------------------------------------
+
+TBD.
+
+kubernetess in the cloud - AWS EKS
+----------------------------------
+
+TBD.
+
+storing data in volumens
+------------------------
+
+TBD.
+
 references
 ----------
 - https://kubernetes.io/
