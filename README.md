@@ -3,6 +3,8 @@ a repo created in order to learn the basics of kubernetes with my personal notes
 
 Kubernetes is an open-source container-orchestration system for automating application deployment, scaling, and management.
 
+Reference materials: https://cloudowski.com/kubernetes-po-polsku/ [PL]
+
 installation
 ------------
 
